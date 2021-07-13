@@ -40,6 +40,7 @@ main img {
 .group {
   display: flex;
   flex-direction: column;
+  align-items: center;
 }
 
 .item {
@@ -121,10 +122,6 @@ form button {
 .form-line {
   display: flex;
   justify-content: space-between;
-}
-
-#join .group {
-  align-items: center;
 }
 
 /* -------  Footer ------- */
