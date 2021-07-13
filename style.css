@@ -123,6 +123,10 @@ form button {
   justify-content: space-between;
 }
 
+#join .group {
+  align-items: center;
+}
+
 /* -------  Footer ------- */
 
 footer {
