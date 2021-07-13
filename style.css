@@ -93,7 +93,9 @@ header nav ul li:last-child a {
 
 /* -------  Join Form ------- */
 form {
-  border: 2px solid #6b1a22;
+  border: 2px solid #6B1A22;
+  display: flex;
+  flex-flow: column nowrap;
   padding: 10px;
 }
 
@@ -114,6 +116,11 @@ form button {
   font-size: 24px;
   padding: 15px;
   width: 100%;
+}
+
+.form-line {
+  display: flex;
+  justify-content: space-between;
 }
 
 /* -------  Footer ------- */
