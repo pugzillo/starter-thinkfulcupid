@@ -127,6 +127,12 @@ form button {
   justify-content: space-between;
 }
 
+/* -------  About ------- */
+.about-text {
+  display: flex;
+  justify-content: center;
+}
+
 /* -------  Footer ------- */
 
 footer {
